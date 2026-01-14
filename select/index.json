@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "the way things go",
+  "base_artist": "beabadoobee",
+  "createdAt": "2026-01-14T04:46:34.270669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "the way things go",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/01_the_way_things_go_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "the way things go",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/02_the_way_things_go_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "the way things go",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/03_the_way_things_go_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Way Things Go",
+      "artist": "Mikal Cronin",
+      "has_synced": true,
+      "path": "select/04_The_Way_Things_Go_Mikal_Cronin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That's Just The Way Things Go",
+      "artist": "Reinaeiry",
+      "has_synced": true,
+      "path": "select/05_That's_Just_The_Way_Things_Go_Reinaeiry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Way Things Go",
+      "artist": "Luke Lasso",
+      "has_synced": true,
+      "path": "select/06_The_Way_Things_Go_Luke_Lasso.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "the way things go (Live in LA)",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/07_the_way_things_go_(Live_in_LA)_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Way Things Go",
+      "artist": "Vincent Eco",
+      "has_synced": true,
+      "path": "select/08_The_Way_Things_Go_Vincent_Eco.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "the way things go (Paused)",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/09_the_way_things_go_(Paused)_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Way Things Go",
+      "artist": "Natalie Gelman",
+      "has_synced": false,
+      "path": "select/10_The_Way_Things_Go_Natalie_Gelman.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "the way things go (Live in LA)",
+      "artist": "beabadoobee",
+      "has_synced": false,
+      "path": "select/11_the_way_things_go_(Live_in_LA)_beabadoobee.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Way Things Go (Bonus Track)",
+      "artist": "Gungor",
+      "has_synced": true,
+      "path": "select/12_The_Way_Things_Go_(Bonus_Track)_Gungor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "the way things go",
+      "artist": "beabadoobee",
+      "has_synced": false,
+      "path": "select/pl_01_the_way_things_go_beabadoobee.txt"
+    }
+  ]
+}
